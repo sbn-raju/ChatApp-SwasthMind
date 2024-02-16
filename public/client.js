@@ -7,7 +7,7 @@ let name;
 do {
     name = prompt("Enter your username");
 }while(!name);
-
+//remove the above while loop when the user authentication is done bro!!
 
 btn.addEventListener("click",(e)=>{
     e.preventDefault;
